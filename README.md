@@ -28,7 +28,7 @@ This project has been converted into a django package. You can install it from [
 
  Authors Dashboard Page
 :-------------------------:
-![Screenshot_2020-06-25 Bona Dashboard Home](https://user-images.githubusercontent.com/19711677/85830207-d4e17200-b751-11ea-9de2-0a86b5bd296a.png)
+![IMG_4675](https://user-images.githubusercontent.com/56551119/100571193-687e1800-3287-11eb-9652-c1638c3a69ab.jpg)
 
  Create Article Page
 :-------------------------:
