@@ -28,7 +28,6 @@ This project has been converted into a django package. You can install it from [
 
  Authors Dashboard Page
 :-------------------------:
-![IMG_4675](https://user-images.githubusercontent.com/56551119/100571193-687e1800-3287-11eb-9652-c1638c3a69ab.jpg)
 
  Create Article Page
 :-------------------------:
