@@ -64,44 +64,6 @@ To run this app, you will need to follow these 3 steps:
 
   - [Pipenv](https://pipenv-es.readthedocs.io/es/stable/)
 
-#### 3. Local Setup and Running on Windows, Linux and Mac OS
-
-  ```
-  # Clone this repository into the directory of your choice
-  $ git clone https://github.com/Williano/Bona-Blog.git
-
-  # Move into project folder
-  $ cd Bona-Blog
-
-  # Install from Pipfile
-  $ pipenv install
-
-  # Activate the Pipenv shell
-  $ pipenv shell
-
-  # Create database tables
-  (Bona-Blog-XXXX) $ python manage.py migrate
-  
-  # Create superuser account
-  (Bona-Blog-XXXX) $ python manage.py createsuperuser
-
-  # Start server
-  (Bona-Blog-XXXX) $ python manage.py runserver
-  
-  # Copy the IP address provided once your server has completed building the site. (It will say something like >> Serving at 127.0.0.1....).
-  
-  # Open the address in the browser
-  >>> http://127.0.0.1:XXXX
-  
-  # Login into Dashboard and write articles
-  >>> http://127.0.0.1:8000/author/dashboard/home/
-  
-  # Django Admin
-  >>> http://127.0.0.1:XXXX/admin/
-  
-  # Run Tests
-  $ python manage.py test blog.tests
-  ```
 
 
 ## Status
